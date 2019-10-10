@@ -11,3 +11,7 @@ https://github.com/intel/linux-sgx
   make
   make run
 ```
+
+### References
+
+https://blog.csdn.net/qiu_pengfei/article/details/78798644
