@@ -7,5 +7,7 @@ https://github.com/intel/linux-sgx
 
 ### build and run
 
+```
   make
   make run
+```
